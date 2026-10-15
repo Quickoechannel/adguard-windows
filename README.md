@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://quickoechannel.github.io/adguard-windows/) picks English or Russian from the browser. Switch: [English](https://quickoechannel.github.io/adguard-windows/?lang=en) · [Русский](https://quickoechannel.github.io/adguard-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adguard"><img src="docs/media/preview.jpg" alt="AdGuard preview" width="640"></a>
+</p>
+
 AdGuard · MoggyDay · 7.22 · v7.22.7
 
 # AdGuard 7.22 “for Windows: system filter, DNS, HTTPS” [v7.22.7]
